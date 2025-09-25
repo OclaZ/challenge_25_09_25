@@ -5,6 +5,6 @@ def convertir_en_tuple():
     return tuple_of_pp
 
 def afficher_tuple():
-    print(convertir_en_tuple())\
+    print(convertir_en_tuple())
 
 tuple_of_pps = convertir_en_tuple()
